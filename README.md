@@ -1,5 +1,9 @@
 # Knowledge Lodge
 
+## Install
+
+`$ yarn`
+
 ## publish
 
 `$ webpack`
